@@ -1,12 +1,12 @@
 {
-  "name": "botpa",
+  "name": "BotKarin",
   "version": "1.0.0",
-  "description": "Bot Auto Reply Perkara ",
-  "main": "index.js",
+  "description": "Bot Send Data ",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "anton.dwitjandra@gmail.com",
+  "author": "oftomos33@gmail.com",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
